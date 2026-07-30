@@ -5,7 +5,7 @@ an object through the webcam feed, and the algorithm tracks it live across frame
 
 ## Demo
 
-`![demo](objectTracking.gif)`
+![demo](objectTracking.gif)
 
 ## How It Works
 
