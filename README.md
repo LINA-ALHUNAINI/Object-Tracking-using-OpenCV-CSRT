@@ -5,8 +5,7 @@ an object through the webcam feed, and the algorithm tracks it live across frame
 
 ## Demo
 
-*(Add your screenshot or GIF here — drag the file into this section on GitHub, or
-place it in the repo and reference it like `![demo](demo.gif)`)*
+`![demo](objectTracking.gif)`)*
 
 ## How It Works
 
@@ -75,9 +74,7 @@ python object_tracking.py
 الإطارات (Frames).
 
 ## عرض توضيحي (Demo)
-
-*(يُضاف هنا صورة أو ملف GIF يوضّح عمل المشروع، وذلك بسحب الملف إلى هذا القسم على
-GitHub، أو وضعه داخل المستودع والإشارة إليه بالصيغة التالية: `![demo](demo.gif)`)*
+`![demo](objectTracking.gif)`)*
 
 ## آلية عمل المشروع
 
