@@ -74,7 +74,7 @@ python object_tracking.py
 الإطارات (Frames).
 
 ## عرض توضيحي (Demo)
-`![demo](objectTracking.gif)`)*
+![demo](objectTracking.gif)
 
 ## آلية عمل المشروع
 
